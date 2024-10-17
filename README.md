@@ -1,39 +1,20 @@
 Gallery: Global Terrorism Database Visualizations
-Welcome to the gallery showcasing visualizations derived from the Global Terrorism Database. For detailed insights into the creation process and data categorization, refer to the database manual.
+Welcome to the gallery presenting visualizations based on data from the Global Terrorism Database. For a deeper understanding of the data creation process and categorization, please consult the database manual.
 
 Assumptions
-Several assumptions were applied to the data:
+Several key assumptions were made when analyzing the data:
 
-Data is analyzed from 2007 to 2017.
-Only incidents definitively classified as terrorist attacks are considered.
-Incidents with unknown fatalities are assumed to have resulted in no deaths.
-These visualizations should be interpreted as conservative estimates.
-
+The data covers the period from 2007 to 2017.
+Only incidents conclusively identified as terrorist attacks are included.
+For incidents where the number of fatalities is unknown, it is assumed there were no deaths.
+These visualizations should be viewed as conservative estimates.
 Deaths by Type of Attack
-The chart below depicts a time series of fatalities categorized by type of attack over the entire ten-year period. Notice the significant increase in deaths around and after 2014.
-
-
+The chart below shows a time series of fatalities, categorized by type of attack across the ten-year period. Note the marked rise in deaths, particularly from 2014 onwards.
 
 Number of Attacks by Weapon
-This plot illustrates the distribution of attacks by weapon type and region. Explosives dominate as the most common weapon type. Note that categories such as fake weapons, biological, and radiological have been excluded due to their rarity.
-
-
+This plot shows the distribution of attacks by weapon type and region. Explosives are the most frequently used weapons. Rare categories like fake weapons, biological, and radiological have been excluded for clarity.
 
 Attack Locations by Group
-Lastly, the map below displays attack locations attributed to the five most lethal terrorist groups. Each dot represents an attack, color-coded by the responsible group.
+The following map highlights attack locations attributed to the five deadliest terrorist groups. Each dot represents an attack, with colors corresponding to the responsible group.
 
-
-
-These visualizations provide a comprehensive overview of the trends and patterns within the Global Terrorism Database, offering valuable insights into the nature and impact of terrorist activities globally.
-
-
-
-
-
-
-3.5
-
-
-
-
-
+These visualizations offer a broad perspective on the trends and dynamics reflected in the Global Terrorism Database, providing insights into the global landscape of terrorist activities.
